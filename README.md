@@ -14,12 +14,10 @@ Built with:
 ## Dashboard
 Client-side dashboard use JSON Web Token (JWT) to access REST API.
 
-![Dashboard](https://github.com/maksimgold208/React-Ecommerce-CZR/tree/master/docs/images/1.png?)
-
 ![Signin email](https://cezerin.com/assets/images/cezerin-signin-email.png)
 
 ## Store
-Single-Page Application with React server-side rendering. [Demo store](https://store.cezerin.com)
+Single-Page Application with React server-side rendering.
 
 [![Cezerin Store](https://cezerin.com/assets/images/cezerin-mobile-product.png)](https://store.cezerin.com)
 
