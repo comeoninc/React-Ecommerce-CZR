@@ -1,9 +1,6 @@
-# Cezerin - Ecommerce Progressive Web Apps
+# Ecommerce Progressive Web Apps
 
-[![CircleCI](https://circleci.com/gh/Cezerin2/cezerin2/tree/master.svg?style=svg)](https://circleci.com/gh/Cezerin2/cezerin2/tree/master)
-
-
-Cezerin2 is React and Node.js based eCommerce platform. Allows creating a Progressive Web Apps. This is based from cezerin after project went dead. (https://github.com/cezerin/cezerin)
+Cezerin2 is React and Node.js based eCommerce platform. Allows creating a Progressive Web Apps. This is based from cezerin after project went dead. (https://github.com/maksimgold208/React-Ecommerce)
 
 Built with:
 * Node.js v8.9
@@ -14,20 +11,10 @@ Built with:
 * WebPack 4
 * MongoDB
 
-## Links
-- [GitHub](https://github.com/cezerin2/cezerin2)
-- [Community Site](https://cezerin.org)
-- [Demo Store](https://store.cezerin.com)
-- [Slack #cezerin2](https://join.slack.com/t/cezerin2/shared_invite/enQtNTE5NzYxMzA5ODc5LTVkZjM4ODUwMmNlMmMyZTkxYjg5N2QxZmQ5NjA1NTg3OWM2ZjU1NzVmNWM0N2E3ZmJjM2Q3MjQ5OGFmNTBmYjg)
-- [Forum](https://groups.google.com/forum/#!forum/cezerin)
-- [Docs](https://github.com/cezerin2/cezerin2/blob/master/docs/getting-started.md)
-- [Facebook](https://facebook.com/cezerin)
-- [Twitter](https://twitter.com/cezerin2)
-
 ## Dashboard
 Client-side dashboard use JSON Web Token (JWT) to access REST API.
 
-![Cezerin Dashboard](https://cezerin.com/assets/images/cezerin-dashboard-products.png?)
+![Dashboard](https://github.com/maksimgold208/React-Ecommerce/tree/master/docs/images/1.png?)
 
 ![Signin email](https://cezerin.com/assets/images/cezerin-signin-email.png)
 
@@ -40,10 +27,10 @@ Single-Page Application with React server-side rendering. [Demo store](https://s
 
 ## Installation
 
-- [with GitHub](https://github.com/cezerin2/cezerin2/blob/master/docs/getting-started.md)
-- [with Docker](https://github.com/cezerin2/cezerin2/blob/master/docs/getting-started-docker.md)
-- [How to deploy a Cezerin2 on Ubuntu 16.04](https://github.com/cezerin2/cezerin2/blob/master/docs/how-to-deploy-a-cezerin2-on-ubuntu-16-04.md)
-- [How to deploy a Cezerin2 on Ubuntu 18.04.1 (from GitHub)](https://github.com/cezerin2/cezerin2/blob/master/docs/how-to-deploy-a-cezerin2-on-ubuntu-18-04-1-github.md)
+- [with GitHub](https://github.com/maksimgold208/React-Ecommerce/blob/master/docs/getting-started.md)
+- [with Docker](https://github.com/maksimgold208/React-Ecommerce/docs/getting-started-docker.md)
+- [How to deploy a Cezerin2 on Ubuntu 16.04](https://github.com/maksimgold208/React-Ecommerce/blob/master/docs/how-to-deploy-a-cezerin2-on-ubuntu-16-04.md)
+- [How to deploy a Cezerin2 on Ubuntu 18.04.1 (from GitHub)](https://github.com/maksimgold208/React-Ecommerce//blob/master/docs/how-to-deploy-a-cezerin2-on-ubuntu-18-04-1-github.md)
 
 ### Requirements
 * Node.js >= 8
@@ -52,7 +39,7 @@ Single-Page Application with React server-side rendering. [Demo store](https://s
 
 ## Documentation
 
-[Documentation](https://github.com/cezerin2/cezerin2/tree/master/docs)
+[Documentation](https://github.com/maksimgold208/React-Ecommerce/tree/master/docs)
 
 
 ## Application Structure
@@ -91,4 +78,7 @@ If you can, please contribute by reporting issues, discussing ideas, or submitti
 
 ## Licence
 
-This software is provided free of charge and without restriction under the MIT License
+<p align="center"><img src="https://avatars0.githubusercontent.com/u/47046948?s=400&u=36182c0337c7199921a6d149eaf33bb77c12a1a9&v=4" width="50" height="50"/></p>
+<p align="center">
+<sub>A little project by <a href="http://www.jeffersonribeiro.com/">Maksim Rabtsevich</a></sub>
+</p>
