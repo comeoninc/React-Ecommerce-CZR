@@ -1,6 +1,6 @@
 # Ecommerce Progressive Web Apps
 
-Cezerin2 is React and Node.js based eCommerce platform. Allows creating a Progressive Web Apps. This is based from cezerin after project went dead. (https://github.com/maksimgold208/React-Ecommerce-CZR)
+CZR is React and Node.js based eCommerce platform. Allows creating a Progressive Web Apps. This is based from cezerin after project went dead. (https://github.com/maksimgold208/React-Ecommerce-CZR)
 
 Built with:
 * Node.js v8.9
