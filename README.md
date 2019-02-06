@@ -78,5 +78,5 @@ If you can, please contribute by reporting issues, discussing ideas, or submitti
 
 <p align="center"><img src="https://avatars0.githubusercontent.com/u/47046948?s=400&u=36182c0337c7199921a6d149eaf33bb77c12a1a9&v=4" width="50" height="50"/></p>
 <p align="center">
-<sub>A little project by <a href="http://www.jeffersonribeiro.com/">Maksim Rabtsevich</a></sub>
+<sub>A little project by <a href="https://github.com/maksimgold208">Maksim Rabtsevich</a></sub>
 </p>
